@@ -8,6 +8,7 @@
 
 
 💼 This dashboard analyzes social media performance metrics to generate actionable business insights using Power BI.
+
 📈 Helps identify top-performing platforms, engagement trends, and optimize content strategy.
 
 ---
