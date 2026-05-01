@@ -21,7 +21,6 @@ Interactive filters allow users to explore trends, top-performing platforms, and
 
 ![Overview](screenshots/overview_kpi.png)
 ![Engagement](screenshots/engagement_drives.png)
-![Insights](screenshots/brand_location_insights.png)
 
 ---
 
