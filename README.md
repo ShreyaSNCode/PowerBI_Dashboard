@@ -1,10 +1,10 @@
 # 📊 Power BI Social Media Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-purple?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Visualization-green?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=flat)
+![DAX](https://img.shields.io/badge/DAX-purple?style=flat)
+![Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=flat)
+![Charts](https://img.shields.io/badge/Charts-green?style=flat)
 
 💼 This dashboard analyzes social media performance metrics to generate actionable business insights using Power BI
 
