@@ -1,6 +1,12 @@
 # 📊 Power BI Social Media Dashboard
 
-💼 This project demonstrates my ability to build interactive dashboards using Power BI to analyze social media performance and generate actionable business insights.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-purple?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Visualization-green?style=for-the-badge)
+
+💼 This dashboard analyzes social media performance metrics to generate actionable business insights using Power BI
 
 ---
 
@@ -12,6 +18,7 @@ Interactive filters allow users to explore trends, top-performing platforms, and
 ---
 
 ## 🔗 Live Dashboard
+💼 This project demonstrates
 
 👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/d5edfde9-3b41-420b-8f42-0af32927115e/324ccde100d3879ebd59?experience=power-bi))
 
@@ -75,4 +82,7 @@ This dashboard helps businesses:
 * Dataset
 * Screenshots
 
-
+## 🚀 How to Use
+1. Open the live dashboard  
+2. Use filters (Platform, Time, etc.)  
+3. Explore KPIs and trends across platforms  
