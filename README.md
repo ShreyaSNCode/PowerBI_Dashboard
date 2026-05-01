@@ -5,8 +5,12 @@
 ![DAX](https://img.shields.io/badge/DAX-purple?style=flat)
 ![Modeling](https://img.shields.io/badge/Data%20Modeling-orange?style=flat)
 ![Charts](https://img.shields.io/badge/Charts-green?style=flat)
+![Power BI] ![Data Analysis] ![DAX] ![Data Modeling] ![Charts]
+
+<br>
 
 💼 This dashboard analyzes social media performance metrics to generate actionable business insights using Power BI
+📈 Helps identify top-performing platforms, engagement trends, and optimize content strategy.
 
 ---
 
