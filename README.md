@@ -7,12 +7,6 @@
 ![Charts](https://img.shields.io/badge/Charts-green?style=flat)
 
 
-# My Project
-
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO)
-![License](https://img.shields.io/github/license/USERNAME/REPO)
-
 
 💼 This dashboard analyzes social media performance metrics to generate actionable business insights using Power BI.
 
